@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>asphyxia的博客</title>
+  
+  <subtitle>知晓天空之蓝的人啊</subtitle>
+  <link href="https://asphyxia-0.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://asphyxia-0.github.io/"/>
+  <updated>2022-03-14T15:54:43.385Z</updated>
+  <id>https://asphyxia-0.github.io/</id>
+  
+  <author>
+    <name>尘风</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>relife</title>
+    <link href="https://asphyxia-0.github.io/2022/03/14/relife/"/>
+    <id>https://asphyxia-0.github.io/2022/03/14/relife/</id>
+    <published>2022-03-14T15:52:39.000Z</published>
+    <updated>2022-03-14T15:54:43.385Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;ReLIFE观后感&quot;&gt;&lt;a href=&quot;#ReLIFE观后感&quot; class=&quot;headerlink&quot; title=&quot;ReLIFE观后感&quot;&gt;&lt;/a&gt;ReLIFE观后感&lt;/h3&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>基于控制台的银行ATM取款机</title>
+    <link href="https://asphyxia-0.github.io/2021/12/13/ji-yu-kong-zhi-tai-de-yin-xing-atm-qu-kuan-ji/"/>
+    <id>https://asphyxia-0.github.io/2021/12/13/ji-yu-kong-zhi-tai-de-yin-xing-atm-qu-kuan-ji/</id>
+    <published>2021-12-13T04:17:21.000Z</published>
+    <updated>2021-12-13T05:01:28.256Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;程序有4个类，Human类负责创建个人信息类，Menu负责创建菜单，Function类进行功能实现，Major类是主函数，以arraylist集合作为数据存储，实现了查看余额，存钱，取钱，不同账户之间转账功能，可查看个人信息并修改和填加账户。&lt;/p&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>基于控制台的会员管理系统</title>
+    <link href="https://asphyxia-0.github.io/2021/11/14/ji-yu-lian-biao-de-hui-yuan-guan-li-xi-tong/"/>
+    <id>https://asphyxia-0.github.io/2021/11/14/ji-yu-lian-biao-de-hui-yuan-guan-li-xi-tong/</id>
+    <published>2021-11-14T11:06:10.000Z</published>
+    <updated>2021-12-13T04:12:04.398Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h4 id=&quot;此代码使用集合进行账户信息的储存，共有4个类，people类是链表的单位，system类是主函数，负责函数调用，menu类是主菜单，account类有带初始信息的链表创建，账户增加，账户密码修改，金额消费，金额充值，积分计算等功能。&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>html整理</title>
+    <link href="https://asphyxia-0.github.io/2021/11/04/html-zheng-li/"/>
+    <id>https://asphyxia-0.github.io/2021/11/04/html-zheng-li/</id>
+    <published>2021-11-04T10:21:54.000Z</published>
+    <updated>2021-11-14T16:06:18.288Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;注意点&quot;&gt;&lt;a href=&quot;#注意点&quot; class=&quot;headerlink&quot; title=&quot;注意点&quot;&gt;&lt;/a&gt;注意点&lt;/h3&gt;&lt;h4 id=&quot;图像标签&quot;&gt;&lt;a href=&quot;#图像标签&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>java知识总结</title>
+    <link href="https://asphyxia-0.github.io/2021/11/03/java-zhi-shi-zong-jie/"/>
+    <id>https://asphyxia-0.github.io/2021/11/03/java-zhi-shi-zong-jie/</id>
+    <published>2021-11-03T12:46:43.000Z</published>
+    <updated>2021-11-13T12:10:40.333Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h4 id=&quot;Arraylist集合&quot;&gt;&lt;a href=&quot;#Arraylist集合&quot; class=&quot;headerlink&quot; title=&quot;Arraylist集合&quot;&gt;&lt;/a&gt;Arraylist集合&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;remove(Object o)</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
