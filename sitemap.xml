@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://asphyxia-0.github.io/2022/03/14/relife/</loc>
-    
-    <lastmod>2022-03-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://asphyxia-0.github.io/2021/12/13/ji-yu-kong-zhi-tai-de-yin-xing-atm-qu-kuan-ji/</loc>
     
     <lastmod>2021-12-13</lastmod>
@@ -112,7 +103,7 @@
 
   <url>
     <loc>https://asphyxia-0.github.io/</loc>
-    <lastmod>2022-05-01</lastmod>
+    <lastmod>2022-06-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
